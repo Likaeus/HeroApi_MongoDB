@@ -14,9 +14,7 @@ Short description of your project.
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Configuration](#configuration)
-
 - [API Endpoints](#api-endpoints)
-- [Testing](#testing)
 - [Contributing](#contributing)
 
 
@@ -81,5 +79,5 @@ DELETE /api/heroes/{id}
 
 Delete a hero by ID.
 
-## Contibuting
+## Contributing
 Please follow the contribution guidelines before submitting a pull request.
