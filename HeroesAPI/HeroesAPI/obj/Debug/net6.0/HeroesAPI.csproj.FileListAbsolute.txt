@@ -1,0 +1,107 @@
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\HeroesAPI.exe
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\HeroesAPI.deps.json
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\HeroesAPI.runtimeconfig.json
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\HeroesAPI.dll
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\ref\HeroesAPI.dll
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\HeroesAPI.pdb
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\DnsClient.dll
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\EPPlus.dll
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\runtimes\linux\native\libsnappy64.so
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\runtimes\linux\native\libzstd.so
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\runtimes\osx\native\libzstd.dylib
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\runtimes\win\native\libzstd.dll
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\runtimes\win\native\snappy32.dll
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\runtimes\win\native\snappy64.dll
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\HeroesAPI.csproj.AssemblyReference.cache
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\HeroesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\HeroesAPI.AssemblyInfoInputs.cache
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\HeroesAPI.AssemblyInfo.cs
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\HeroesAPI.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\HeroesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\HeroesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\scopedcss\bundle\HeroesAPI.styles.css
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\HeroesAPI.csproj.CopyComplete
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\HeroesAPI.dll
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\ref\HeroesAPI.dll
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\HeroesAPI.pdb
+C:\Users\rodri\Desktop\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\HeroesAPI.genruntimeconfig.cache
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\appsettings.json
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\HeroesAPI.exe
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\HeroesAPI.deps.json
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\HeroesAPI.runtimeconfig.json
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\HeroesAPI.dll
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\HeroesAPI.pdb
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\DnsClient.dll
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\EPPlus.dll
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\MongoDB.Bson.dll
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\MongoDB.Driver.dll
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\SharpCompress.dll
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\runtimes\linux\native\libsnappy64.so
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\runtimes\linux\native\libzstd.so
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\runtimes\osx\native\libsnappy64.dylib
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\runtimes\osx\native\libzstd.dylib
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\runtimes\win\native\libzstd.dll
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\runtimes\win\native\snappy32.dll
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\runtimes\win\native\snappy64.dll
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\HeroesAPI.csproj.AssemblyReference.cache
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\HeroesAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\HeroesAPI.AssemblyInfoInputs.cache
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\HeroesAPI.AssemblyInfo.cs
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\HeroesAPI.csproj.CoreCompileInputs.cache
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\HeroesAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\HeroesAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\staticwebassets\msbuild.HeroesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.HeroesAPI.props
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HeroesAPI.props
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HeroesAPI.props
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\staticwebassets.pack.json
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\scopedcss\bundle\HeroesAPI.styles.css
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\HeroesAPI.csproj.CopyComplete
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\HeroesAPI.dll
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\refint\HeroesAPI.dll
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\HeroesAPI.pdb
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\HeroesAPI.genruntimeconfig.cache
+E:\DOCSS\Nueva carpeta (3)\!!!!!!\HeroesAPI\HeroesAPI\HeroesAPI\obj\Debug\net6.0\ref\HeroesAPI.dll

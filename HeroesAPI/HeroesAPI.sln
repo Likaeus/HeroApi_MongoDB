@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroesAPI", "HeroesAPI\HeroesAPI.csproj", "{875ADBB3-1E53-4358-97D3-1238F9B8C385}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{875ADBB3-1E53-4358-97D3-1238F9B8C385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{875ADBB3-1E53-4358-97D3-1238F9B8C385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{875ADBB3-1E53-4358-97D3-1238F9B8C385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{875ADBB3-1E53-4358-97D3-1238F9B8C385}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A898BA01-DE7C-40A0-9229-0BD043789A86}
+	EndGlobalSection
+EndGlobal
